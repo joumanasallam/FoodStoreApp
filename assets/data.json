@@ -1,0 +1,299 @@
+{
+    "product": [
+        {  "catogeries":4,
+            "name": "orange",
+            "image": "https://th.bing.com/th/id/OIP.qSH0TMRGZCfI5xNNyj0SNAHaE8?pid=ImgDet&rs=1",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 30,
+            "oldPrice": 45,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":4,
+            "name": "milk",
+            "image": "https://mediaaws.almasryalyoum.com/news/large/2021/04/11/1512011_0.jpg",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 20,
+            "oldPrice": 40,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":4,
+            "name": "panana with milk",
+            "image": "https://th.bing.com/th/id/OIP.3ri3ZK4QXY4irA1tJIHIVgHaEK?pid=ImgDet&rs=1",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":4,
+            "name": "Pepsi",
+            "image": "https://th.bing.com/th/id/OIP.ogmamk-obweoPdeEpzAdsAHaEA?w=286&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 10,
+            "oldPrice": 15,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":4,
+            "name": "Cocacola",
+            "image": "https://th.bing.com/th/id/OIP.cRdQzlRO6MoYvn-MfEJwWAHaE8?w=264&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 10,
+            "oldPrice": 15,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":4,
+            "name": "Mango",
+            "image": "https://th.bing.com/th/id/OIP.O-A1FeqviCaiBgR8PFnZIQHaFP?w=218&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":3,
+            "name": "Hamburger",
+            "image": "https://th.bing.com/th/id/OIP.i1P4YE2VyqRcnIQYsObfvAHaE8?w=224&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 70,
+            "oldPrice": 90,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":1,
+            "name": "orange",
+            "image": "https://th.bing.com/th/id/OIP.nSZeLVPUnN0GH7i0GjP7GwHaGP?w=223&h=188&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 15,
+            "oldPrice": 20,
+            "isfavorite": false,
+            "isincard": false
+        },
+    
+       
+    
+        {
+            "catogeries":1,
+            "name": "Mango",
+            "image": "https://th.bing.com/th/id/OIP.AEgqRGUqzfA0Yx8AdHEdMgHaE8?w=255&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 30,
+            "oldPrice": 50,
+            "isfavorite": false,
+            "isincard": false
+        },
+      
+        {
+            "catogeries":1,
+            "name": "panana",
+            "image": "https://th.bing.com/th/id/OIP.rmRiKk7BAZ9_RjDTYuC9xQHaEc?w=270&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 30,
+            "oldPrice": 50,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":1,
+            "name": "bery",
+            "image": "https://th.bing.com/th/id/OIP.YUqxQRkGdO0Xshs6G5hMfQHaEf?w=288&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":1,
+            "name": "cherry",
+            "image": "https://th.bing.com/th/id/OIP.ModxFRHDgUL3smxjzCObbAHaF7?w=213&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false,
+            "isincard": false
+        },
+
+        {
+            "catogeries":2,
+            "name": "Sushi",
+            "image": "https://th.bing.com/th/id/OIP.OKQX3YsEhP7i_LKtNjJCxAHaE8?w=293&h=195&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 150,
+            "oldPrice": 200,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":2,
+            "name": "Ramen",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shoyu_Ramen.jpg/1200px-Shoyu_Ramen.jpg",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 5,
+            "oldPrice": 6,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":2,
+            "name": "shrimp",
+            "image": "https://th.bing.com/th/id/OIP.Ng61gbYrhp6sNw6IdUsQpAHaHa?pid=ImgDet&rs=1",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false,
+            "isincard": false
+        },
+        
+        {
+            "catogeries":0,
+            "name": "Tomato",
+            "image": "https://th.bing.com/th/id/OIP.k7HvgDJN11A1DDEF2n8VtgHaE8?w=261&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 5,
+            "oldPrice": 8,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":0,
+            "name": "Carotte",
+            "image": "https://th.bing.com/th/id/OIP._8NsI5JMPQ0BS3jx9S47rAHaE7?w=244&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 3,
+            "oldPrice": 5,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":0,
+            "name": "potatoes",
+            "image": "https://th.bing.com/th/id/OIP.b_rtyCChrOSnSHKlUv7hrQHaFj?w=249&h=187&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 2,
+            "oldPrice": 3,
+            "isfavorite": false,
+            "isincard": false
+        },
+        {
+            "catogeries":0,
+            "name": "Avocado",
+            "image": "data:image/jpeg;base64,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",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false,
+            "isincard": false
+        }
+    ],
+    "catogeries": [
+        {
+            "id": 3,
+            "name": "Steak",
+            "url":"https://th.bing.com/th/id/OIP.i1P4YE2VyqRcnIQYsObfvAHaE8?w=224&h=180&c=7&r=0&o=5&pid=1.7"
+
+        },
+        {
+            "id": 4,
+            "name": "juice",
+            "url":"https://th.bing.com/th/id/OIP.O-A1FeqviCaiBgR8PFnZIQHaFP?w=218&h=180&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "id": 0,
+            "name": "Vegetables",
+            "url":"https://th.bing.com/th/id/OIP.s_kB6eOz_GlshD7eJnyh_gHaE8?w=273&h=181&c=7&r=0&o=5&pid=1.7"
+        },
+        {
+            "id": 2,
+            "name": "Fish",
+            "url":"https://th.bing.com/th/id/OIP.Ng61gbYrhp6sNw6IdUsQpAHaHa?pid=ImgDet&rs=1"
+        },
+        {
+            "id": 1,
+            "name": "fruits",
+            "url":"https://th.bing.com/th/id/OIP.AEgqRGUqzfA0Yx8AdHEdMgHaE8?w=255&h=180&c=7&r=0&o=5&pid=1.7"
+        }
+    ],
+    "Adress": [
+        {
+      "mainTitle":"Home Adress",
+      "adress":"Mustafa ST.NO.",
+      "floor":"Street x12"
+
+        },
+        {
+            "mainTitle":"Office Adress",
+            "adress":"Axis istanbuk B2",
+            "floor":"Floor2,office 11"
+      
+              }
+      
+
+    ],
+    "Deals": [
+        {
+          
+            "name": "summer sun ice cream",
+            "image": "https://th.bing.com/th/id/OIP.DNfjM7S1dlC0wobQD7fbFAHaHa?w=144&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 20,
+            "oldPrice": 50,
+            "isfavorite": false
+           
+        },
+        {
+          
+            "name": "Big Offer",
+            "image": "https://th.bing.com/th/id/OIP.d6jXGgNv33pR6ZvSnRQeTQHaJL?w=128&h=180&c=7&r=0&o=5&pid=1.7",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 60,
+            "oldPrice": 100,
+            "isfavorite": false
+           
+        },
+        {
+          
+            "name": "Summer Offer",
+            "image": "https://th.bing.com/th/id/OIP.cPbC75oP1rNfUGwpblLLFwHaER?pid=ImgDet&rs=1",
+            "quantitiy": 1,
+            "distance": "3 min from you",
+            "price": 80,
+            "oldPrice": 120,
+            "isfavorite": false
+           
+        }
+
+    ]
+
+}
